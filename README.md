@@ -50,4 +50,4 @@ A robust and user-friendly system for managing books, members, librarians, and l
 ### Setup Instructions
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-repo/library-management-system.git
+   git clone https://github.com/notaprogrammervlad/libms
